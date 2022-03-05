@@ -18,19 +18,4 @@ This is my first project. It performs most of the functions which we use in our 
 8. Remove from cart
 9. Cancel Order
 
-### Here is a simple flow chart
 
-```mermaid
-graph TD;
-    Home-->Login;
-    Home-->AddToCart;
-    Home-->BuyNow;
-    BuyNow-->Order;
-    AddToCart-->Cart;
-    Cart-->Order;
-    Cart-->Remove;
-    Cart-->QuantityIncDec;
-    Order-->CancelOrder;
-    Order-->Buy;
-    Login-->Logout;
-```
