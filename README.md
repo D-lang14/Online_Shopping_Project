@@ -1,4 +1,4 @@
-# Online Shopping Project
+# 🛒🎁 Online Shopping Project 🎁🛒
 
 This is my first project. It performs most of the functions which we use in our daily life while buying a product from a website.
 --
